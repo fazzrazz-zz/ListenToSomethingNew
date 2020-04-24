@@ -1,3 +1,3 @@
 # ListenToSomethingNew
 
-Have a reddit bot fetch the top weekly r/listentothis links and convert them into a spotify playlist
+An simple reddit bot that fetches the top weekly r/listentothis links and convert them into a youtube playlist
